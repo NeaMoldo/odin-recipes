@@ -1,0 +1,27 @@
+body {
+    background-color: #affc7c;
+        font-family: sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+    display: inline;
+    background-color: aqua;
+    border: 5px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
